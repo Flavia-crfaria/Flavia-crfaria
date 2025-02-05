@@ -19,6 +19,12 @@ Welcome to my GitHub profile! I'm **Flavia**.
   <img align="center" alt="Flavia-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
 </div>
 
+<br>
+<div>
+<a href = "mailto:flavia.crfaria@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/flaviacostafaria" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
 ## 👩‍💻 About Me
 
 - 🎓 **Computer Science** Student.
