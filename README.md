@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I'm **Flavia**.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavia-crfaria&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia-crfaria&layout=compact&theme=radical) 
 
 
 ### 🛠 Tech Stack
